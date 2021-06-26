@@ -1,0 +1,65 @@
+.head {
+	background: rgb(60,179,113);
+	text-align: center;
+	color: white;
+	padding: 20px;
+	margin:	0 20px;
+	margin-top: 20px;
+
+}
+.link {
+	background: black;
+	padding: 10px; 
+	word-spacing: 20px; 
+	color: white;
+	margin: 0 20px;
+}
+.gridbox {
+	display: grid;
+	grid-template-columns: 30% 70%;
+	margin: 0 20px;
+	/*grid-column-gap: 10px;*/
+}
+.aboutme{
+	background: rgba(220,220,220,0.5);
+	height: 820px; 
+	width: 330px;
+	padding: 10px;
+
+}
+.titlehead{
+	/*text-align: left;*/
+	padding: 10px 0px;
+	height: 800px;
+	width: 500px;
+}
+.image1{
+	background-color: rgb(128,128,128);
+	height: 150px;
+	width: 300px;
+	padding: 15px;
+}
+.image2 {
+	background-color: rgb(128,128,128);
+	height: 150px;
+	width: 870px;
+	padding: 15px;
+
+}
+.image{
+	height: 20px;
+	width: 300px
+	margin-left: ;
+	padding: 15px;
+	background-color: rgb(128,128,128);
+}
+
+.footer {
+	background-color: rgba(128,128,128,0.3);
+	height: 100px;
+	width: 1300px;
+	text-align: center;
+}
+
+	
+
